@@ -7,18 +7,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+         <h1>Correlations</h1>
+         <h3>An app to track and correrlate habits; how much does doing X effect Y ? What are the most effective habits to facilitate systematic changes to the individual? </h3> 
         </header>
       </div>
     );

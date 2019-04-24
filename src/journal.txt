@@ -1,0 +1,19 @@
+Okay so here we are, time to finally build the project you've been thinking about. This projectwill aim to further your endevours into self-mastery and discovery. 
+
+Correlations; an app to correlate behaviours and give 'weight' to the mundane decisions of your life. 
+
+What does an MVP look like: 
+    -> User model 
+    -> User has many behaviours 
+    -> behaviours belong to a user 
+
+    -> Login w/ redux 
+    -> Rails API back-end. 
+
+    First, let's create a Rails API back-end. 
+    I want this project to teach me things that I have been unwilling or afraid to really understand: authorizations, serializers, ensuiring users can't navigate to different pages without their Auth token. 
+
+    I want the app to be able to receive a text message in a given format and be able to populate the excel sheet simialr to my 118 exel habit sheet that I created earlier. 
+
+    
+

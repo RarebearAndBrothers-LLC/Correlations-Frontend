@@ -15,5 +15,8 @@ What does an MVP look like:
 
     I want the app to be able to receive a text message in a given format and be able to populate the excel sheet simialr to my 118 exel habit sheet that I created earlier. 
 
+Start by building User model with login.
+
+Is this what we really want to build? why dont we start by trying to create a simple login. 
     
 

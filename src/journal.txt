@@ -17,6 +17,7 @@ What does an MVP look like:
 
 Start by building User model with login.
 
-Is this what we really want to build? why dont we start by trying to create a simple login. 
+Is this what we really want to build? why dont we start by trying to create a simple login.
+Build basic React-Redix setup  
     
 
